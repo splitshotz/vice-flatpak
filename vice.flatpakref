@@ -1,0 +1,9 @@
+[Flatpak Ref]
+Name=io.github.splitshotz.Vice
+Branch=stable
+Title=Vice
+Url=https://splitshotz.github.io/vice-flatpak/repo
+RuntimeRepo=https://dl.flathub.org/repo/flathub.flatpakrepo
+SuggestRemoteName=vice
+IsRuntime=false
+GPGKey=mDMEavC4RxYJKwYBBAHaRw8BAQdA6sTlFF4oUqIbmsFcnnGrmUfpKys/4xbFDsQI41nfwWm0F1ZpY2UgRmxhdHBhayByZXBvc2l0b3J5iJAEExYKADgWIQTItYe3Z7i8s+f5MNJcLTSV6qUQugUCavC4RwIbAwULCQgHAgYVCgkICwIEFgIDAQIeAQIXgAAKCRBcLTSV6qUQuhbCAP9OYUU4pc+p2UM2gDQFFYyur4xJyAnpuQ7uVYfv0s4UyQD+O13AQpupLZ+FPJIymhMj7Q0kaQZzxiZymX/B6FfPtgk=
